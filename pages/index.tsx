@@ -5,6 +5,7 @@ import Form from "@/components/Form"
 export default function Home() {
   return (
     <>
+      <title>Cuiter</title>
       <Header label="Home" />
       <Form placeholder="What's happening?" />
       <PostFeed />
